@@ -21,3 +21,12 @@ footer {
     background: #16a085;
     color: #fff;
 }
+
+.container-login {
+    width: 35%;
+    margin-top: 10%;
+}
+
+.body-login {
+    background-color: #E2E0E0;
+}
